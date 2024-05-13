@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "constructor_0083", "constru
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mbrStatikfunc", "mbrStatikfunc\mbrStatikfunc.vcxproj", "{C98D1DB3-C0A9-4F9E-B45D-C17208E91DEA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "construktor", "construktor\construktor.vcxproj", "{6D6C5560-6CA9-42A1-A65B-422EA6321C92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{C98D1DB3-C0A9-4F9E-B45D-C17208E91DEA}.Release|x64.Build.0 = Release|x64
 		{C98D1DB3-C0A9-4F9E-B45D-C17208E91DEA}.Release|x86.ActiveCfg = Release|Win32
 		{C98D1DB3-C0A9-4F9E-B45D-C17208E91DEA}.Release|x86.Build.0 = Release|Win32
+		{6D6C5560-6CA9-42A1-A65B-422EA6321C92}.Debug|x64.ActiveCfg = Debug|x64
+		{6D6C5560-6CA9-42A1-A65B-422EA6321C92}.Debug|x64.Build.0 = Debug|x64
+		{6D6C5560-6CA9-42A1-A65B-422EA6321C92}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D6C5560-6CA9-42A1-A65B-422EA6321C92}.Debug|x86.Build.0 = Debug|Win32
+		{6D6C5560-6CA9-42A1-A65B-422EA6321C92}.Release|x64.ActiveCfg = Release|x64
+		{6D6C5560-6CA9-42A1-A65B-422EA6321C92}.Release|x64.Build.0 = Release|x64
+		{6D6C5560-6CA9-42A1-A65B-422EA6321C92}.Release|x86.ActiveCfg = Release|Win32
+		{6D6C5560-6CA9-42A1-A65B-422EA6321C92}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
